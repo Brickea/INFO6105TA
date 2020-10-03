@@ -51,4 +51,4 @@ Jian Xiao|001901943S|50|40|8 (Same soluction but not in ```[... for ... in ...]`
 Yuxuan Yang|001389098S|50|40|8 (Same soluction but not in ```[... for ... in ...]``` format)|98|
 Zhi Yao|001520706S|50|40|8 (Same soluction but not in ```[... for ... in ...]``` format)|98|
 Tianhui Zhang|001566190S|50|40|8 (Same soluction but not in ```[... for ... in ...]``` format)|98|
-Qixiang Zhou|001822974S|50|40|5|98|
+Qixiang Zhou|001822974S|50|40|8 (Same soluction but not in ```[... for ... in ...]``` format)|98|
