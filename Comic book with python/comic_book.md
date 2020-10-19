@@ -30,7 +30,7 @@ Artistic merit| 10%
 ## Score Recording
 
 Name|NUID|Code submission|PDF format: three pages of about 20 images each, with text.|Two language PDFs|Artistic merit|Grade|Consideration|
-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
 Anh Dao|001532403S|50|10 (Three separate pdf for one story about 8 images in each pdf.)|20|10|90|
 Xuejiao Dong|001569734S|50|20|20|10|100|
 Hung-Chih Huang|001005756S|50|20|20|10|100|

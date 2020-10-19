@@ -13,7 +13,7 @@ For submission Ⅰ, you have to do a submission: Based on just the spreadsheet, 
 ## Scoring reference
 
 |Requirement|Ratio|
-|-|-|-|
+|-|-|
 Code submission|50 %
 Data split (Test&Training)| 20%
 Tomorrow Prediction| 20%
@@ -22,7 +22,7 @@ Model Score| 10%
 ## Score Recording
 
 Name|NUID|Code submission|Data split (Test&Training)|Tomorrow Prediction|Model Score|Grade|Consideration|
-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
 Anh Dao|001532403S|50|20|20|10|100|
 Xuejiao Dong|001569734S|50|20|20|10|100|
 Hung-Chih Huang|001005756S|50|20|20|10|100|
